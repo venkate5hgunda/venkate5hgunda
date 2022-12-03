@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Algorithmic Problem-solving, Machine Learning and Deep Learning are areas of the greatest interest to me.
 
 Proficient in building ML Applications (w. TensorFlow & PyTorch) and ML Kernel Programming (C++ w. CUDA). Well-versed with Transformers (NLP), Computer Vision, Recommender Systems and Digital Signal Processing (Audio/Video) related Model Architectures along with ML Engineering techniques like Pipeline/Model/Data Parallelism, Model Pruning, Quantization and Federated Learning.
